@@ -9,7 +9,7 @@ body {
 }
 a {
     color: grey;
-    font-size: 20px;
+    font-size: 25px;
 }
 a:hover {
     color: wheat;
@@ -23,7 +23,6 @@ li {
 nav ul li {
     display: inline;
     padding-left: 5px;
-    margin-top: ;
 }
 img {
     border-radius: 200px;
